@@ -667,10 +667,13 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Perviy_Kanal_HD.ism/playlist.mpd
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0 group-title="🇷🇺| Nga" tvg-logo="https://i.imgur.com/5D1gwiv.png",РТР Планета (СНГ)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/793/160_160_1/7f9836efbb3926443f0d18bcdafcabe8.png",НТВ HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
@@ -685,9 +688,6 @@ http://185.161.224.216/dash/5_Kanal_SD.ism/playlist.mpd
 http://ott-cdn.ucom.am/s16/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 (480p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s21/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
