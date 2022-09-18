@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" Download: images.zaltv.club/dl/tivimate_40.apk,images.zaltv.club/dl/tivimate_4201.apk
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| THVN" tvg-logo="https://i.imgur.com/C5G4qCb.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1081,7 +1082,6 @@ https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
 https://radio-live-mg.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Đài Radio" tvg-logo="https://i.imgur.com/sbhkIE5.jpg",Радио России
 https://radio-live-mg.rtr-vesti.ru/hls/radio_rus/playlist_3.m3u8
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
 #EXTINF:-1 group-title="Kplus" tvg-id="kcinehd" tvg-logo="http://onetv.click/logo/kcinehd.jpg",K+Cine HD
 https://travinhtv.vn/api/httpsline/aHR0cDovLzEwNmJlYzlkOC52d3MudmVnYWNkbi52bi9jbGlwdHZfbGl2ZS9hbWxzdDprcGx1c2hk&chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Kplus" tvg-id="klifehd" tvg-logo="http://onetv.click/logo/klifehd.jpg",K+Life HD
