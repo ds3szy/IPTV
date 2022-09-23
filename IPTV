@@ -1083,13 +1083,15 @@ https://radio-live-mg.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Đài Radio" tvg-logo="https://i.imgur.com/sbhkIE5.jpg",Радио России
 https://radio-live-mg.rtr-vesti.ru/hls/radio_rus/playlist_3.m3u8
 #EXTINF:-1 group-title="Kplus" tvg-id="kcinehd" tvg-logo="http://onetv.click/logo/kcinehd.jpg",K+Cine HD
-http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kplushd/chunklist_b3128000.m3u8
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 #EXTINF:-1 group-title="Kplus" tvg-id="klifehd" tvg-logo="http://onetv.click/logo/klifehd.jpg",K+Life HD
-http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:knshd/chunklist_b3128000.m3u8
+https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
 #EXTINF:-1 group-title="Kplus" tvg-id="ksport1hd" tvg-logo="http://onetv.click/logo/ksport1hd.jpg",K+Sport1 HD
 https://stream.sugustv.tk:443/live/E76AE207BC4C0EF8334D41D7A19FFB40/15.ts
 #EXTINF:-1 group-title="Kplus" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg",K+Sport2 HD
-http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kpchd/chunklist_b3128000.m3u8
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+#EXTINF:-1 group-title="Kplus" tvg-id="kkidshd" tvg-logo="http://onetv.click/logo/kkidshd.jpg",K+Kids HD
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 #EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-logo="https://i.imgur.com/AvYpKxL.png" group-title="CN",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-logo="https://i.imgur.com/AvYpKxL.png" group-title="CN",CCTV+ 2 (600p) [Not 24/7]
