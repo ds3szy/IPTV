@@ -1107,24 +1107,13 @@ https://stream.sugustv.tk:443/live/E76AE207BC4C0EF8334D41D7A19FFB40/16.ts
 #EXTINF:-1 group-title="Kplus" tvg-id="kkidshd" tvg-logo="http://onetv.click/logo/kkidshd.jpg",K+Kids HD
 https://stream.sugustv.tk:443/live/E76AE207BC4C0EF8334D41D7A19FFB40/14.ts
 
-#EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-logo="https://i.imgur.com/AvYpKxL.png" group-title="CN",CCTV+ 1 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-logo="https://i.imgur.com/AvYpKxL.png" group-title="CN",CCTV+ 2 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="CN",CCTV-1综合 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png" group-title="CN",CCTV-2财经 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="CN",CCTV-3综艺 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CN",CCTV-4中文国际 (540p)
-http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CN",CCTV-4中文国际 (576p)
-http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CN",CCTV-4中文国际 (576p)
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CN",CCTV-4中文国际 (576p) [Not 24/7]
-http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CN",CCTV-4中文国际 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CN",CCTV-4中文国际 (1080p)
