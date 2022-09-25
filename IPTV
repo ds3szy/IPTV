@@ -1341,6 +1341,8 @@ https://code.television4you.xyz/getlink/yoitv?id=M9b8YoeShhTsfaXXoNZJDw==
 http://itskoi.dothome.co.kr/kbs.php?id=11
 #EXTINF:-1 tvg-id="KBS2TV.kr" group-title="KRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KBS 2
 http://itskoi.dothome.co.kr/kbs.php?id=12
+#EXTINF:-1 tvg-id="Anibox.kr" tvg-logo="https://i.imgur.com/5SZfGmy.png" group-title="🇻🇳/🇷🇺| Trẻ em",Anibox (1080p) [Not 24/7]
+https://allanf181.github.io/adaptive-streams/streams/kr/Anibox.m3u8
 #EXTINF:-1 tvg-id="MBCTV.kr" group-title="KRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png", MBC
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="JTBC.kr" group-title="KRTV" tvg-logo="https://6.vikiplatform.com/image/dd32095cfb9e46ab8358b31792e1e8f9.png?x=b&s=843x474&q=h&cb=1", JTBC
