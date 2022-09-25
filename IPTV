@@ -1182,23 +1182,48 @@ https://radio-live-mg.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Đài Radio" tvg-logo="https://i.imgur.com/sbhkIE5.jpg",Радио России
 https://radio-live-mg.rtr-vesti.ru/hls/radio_rus/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Kplus" tvg-id="kcinehd" tvg-logo="http://onetv.click/logo/kcinehd.jpg",K+Cine HD
-https://stream.sugustv.tk:443/live/E76AE207BC4C0EF8334D41D7A19FFB40/12.ts
+#EXTM3U url-tvg="http://vietanhtv.xyz/epg"
+#EXTINF:-1 tvg-id="kcinehd" group-title ="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", K+CINE FHD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn1.vietanhtv.pw:8080/thikhich/kcinefhd
+#EXTINF:-1 tvg-id="klifehd" group-title ="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png", K+LIFE FHD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn1.vietanhtv.pw:8080/thikhich/klifefhd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest?cb=20220127021303&path-prefix=vi", K+SPORT 1 FHD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn1.vietanhtv.pw:8080/thikhich/ksport1fhd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2021-10-01/6765470-sport-02-hd.png", K+SPORT 2 FHD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn1.vietanhtv.pw:8080/thikhich/ksport2fhd
+#EXTINF:-1 tvg-id="kkidshd" group-title ="K+" tvg-logo="https://vietanhtv.xyz/ic/kkids.png", K+KIDS FHD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn1.vietanhtv.pw:8080/thikhich/kkidsfhd
 
-#EXTINF:-1 group-title="Kplus" tvg-id="klifehd" tvg-logo="http://onetv.click/logo/klifehd.jpg",K+Life HD
-https://stream.sugustv.tk:443/live/E76AE207BC4C0EF8334D41D7A19FFB40/13.ts
+#EXTINF:-1 tvg-id="kcinehd" group-title ="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", K+CINE HD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn1.vietanhtv.pw:8080/cliptv/kcinehd
+#EXTINF:-1 tvg-id="klifehd" group-title ="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png", K+LIFE HD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn1.vietanhtv.pw:8080/cliptv/klifehd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest?cb=20220127021303&path-prefix=vi", K+SPORT 1 HD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn1.vietanhtv.pw:8080/cliptv/ksport1hd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2021-10-01/6765470-sport-02-hd.png", K+SPORT 2 HD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn1.vietanhtv.pw:8080/cliptv/ksport2hd
 
-
-#EXTINF:-1 group-title="Kplus" tvg-id="ksport1hd" tvg-logo="http://onetv.click/logo/ksport1hd.jpg",K+Sport1 HD
-https://stream.sugustv.tk:443/live/E76AE207BC4C0EF8334D41D7A19FFB40/15.ts
-
-
-#EXTINF:-1 group-title="Kplus" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg",K+Sport2 HD
-https://stream.sugustv.tk:443/live/E76AE207BC4C0EF8334D41D7A19FFB40/16.ts
-
-
-#EXTINF:-1 group-title="Kplus" tvg-id="kkidshd" tvg-logo="http://onetv.click/logo/kkidshd.jpg",K+Kids HD
-https://stream.sugustv.tk:443/live/E76AE207BC4C0EF8334D41D7A19FFB40/14.ts
+#EXTINF:-1 tvg-id="kcinehd" group-title ="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", K+CINE HD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn2.vietanhtv.pw/vtvcabon/kcine/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title ="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png", K+LIFE HD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn2.vietanhtv.pw/vtvcabon/klife/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest?cb=20220127021303&path-prefix=vi", K+SPORT 1 HD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn2.vietanhtv.pw/vtvcabon/ksport1/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2021-10-01/6765470-sport-02-hd.png", K+SPORT 2 HD 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://vn2.vietanhtv.pw/vtvcabon/ksport2/mpegts
 
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="CN",CCTV-1综合 (1080p)
