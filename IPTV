@@ -1194,9 +1194,13 @@ http://vn1.vietanhtv.pw/fptplay/ksport1/mpegts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2021-10-01/6765470-sport-02-hd.png", K+SPORT 2 HD 
 #EXTVLCOPT:http-user-agent=ExoPlayer
 http://vn1.vietanhtv.pw/fptplay/ksport2/mpegts
-#EXTINF:-1 tvg-id="kkidshd" group-title ="k+" tvg-logo="https://vietanhtv.xyz/ic/kkids.png", K+KIDS 
+#EXTINF:-1 tvg-id="kkidshd" group-title ="k+" tvg-logo="https://vietanhtv.xyz/ic/kkids.png", K+KIDS Sv2
 #EXTVLCOPT:http-user-agent=ExoPlayer
 http://vn1.vietanhtv.pw/fptplay/kkids/mpegts
+
+
+
+
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="CN",CCTV-1综合 (1080p)
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
