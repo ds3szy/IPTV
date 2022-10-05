@@ -765,6 +765,8 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+#EXTINF:0 group-title="🇷🇺| Nga" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый HD sv2
+http://eb4b8dcf.kablakaka.ru/iptv/94ZWE9Z585YLHZ/204/index.m3u8
 #EXTINF:0 group-title="🇷🇺| Nga" tvg-logo="https://i.imgur.com/5D1gwiv.png",РТР Планета (СНГ)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s15/index.m3u8
@@ -792,6 +794,10 @@ http://185.161.224.216/dash/5_Kanal_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="🇷🇺| Nga" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия Культура
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s16/index.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga" tvg-logo="http://guljaj.com/kanaly/26.jpg",Россия 1 HD SV1
+https://salam-2.rutube.ru/dive/river-1-401.rutube.ru/FM9DdBcRFcNT6u3MTgEfMg/stream/musang-703.brz.rutube.ru/gBPpkkAoP_UNGLAOiY710A/1665017169/9f60c7a40f9b5ec52a447e215b36e34c/1080p_stream.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga" tvg-logo="http://guljaj.com/kanaly/26.jpg",Россия 1 HD SV2
+http://eb4b8dcf.kablakaka.ru/iptv/94ZWE9Z585YLHZ/205/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель
