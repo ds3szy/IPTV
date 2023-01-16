@@ -102,41 +102,6 @@ http://vn2.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K - Server 2
 http://vn3.cvacetv.ga/4K/mpegts
 
-
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-http://live.vthanhtivi.pw/vtv2
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV
-https://wallpapermeter.tk/worldcup/vtv2mytv
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 ViettelTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
-
-
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-http://live.vthanhtivi.pw/vtv3
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
-https://wallpapermeter.tk/worldcup/vtv3mytv
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 ViettelTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
-
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-#http://live.vthanhtivi.pw/vtv5
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
-https://wallpapermeter.tk/worldcup/vtv5mytv
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 ViettelTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv5
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
-http://live.vthanhtivi.pw/vtvct
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV
-https://wallpapermeter.tk/worldcup/vtvcanthomytv
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ ViettelTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtvct
-
-#-*-- VTV FPT -*--#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
-#http://live.vthanhtivi.pw:8080/vtv1
-
-
 #-*--VTV-*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -411,9 +376,22 @@ https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 #-*--Kẹo Soco-*--#
 
 #-*--Kẹo-*--#
-#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Tạm dừng cung cấp qua list IPTV.
-https://hqth.me/khongnentromcap
 
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (ClipTV)
+http://vn2.vietanhtv.pw:8081/ksport1/index.m3u8
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (VTVCabOn)
+https://longpt.net/vtvcabon/k-plus-pm.m3u8
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 2 (ClipTV)
+http://vn2.vietanhtv.pw:8081/ksport2/index.m3u8
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 2 (VTVCabOn)
+https://longpt.net/vtvcabon/k-plus-pc.m3u8
+
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_480_270.png", K+ Cine
+https://longpt.net/vtvcabon/k-plus-1.m3u8
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997313743/0e069fa6829d_480_270.png", K+ Life
+https://longpt.net/vtvcabon/k-plus-ns.m3u8
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K+ Kids
+https://longpt.net/vtvcabon/k-plus-kids.m3u8
 #-*--Thiết yếu-*--#
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -1300,30 +1278,16 @@ https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/vPvULj7.png" group-title="🇷🇺| Nga và khối SNG",Салям
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 
-#EXTINF:-1 group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (VTVOn)
-http://vn2.vietanhtv.pw:8081/ksport1/index.m3u8
-#EXTINF:-1 group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (ClipTV)
-https://longpt.net/vtvcabon/k-plus-pm.m3u8
-#EXTINF:-1 group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_480_270.png", K+ Sport 2 (VTVOn)
-http://vn2.vietanhtv.pw:8081/ksport2/index.m3u8
-#EXTINF:-1 group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_480_270.png", K+ Sport 2 (VTVOn)
-https://longpt.net/vtvcabon/k-plus-pc.m3u8
 
-#EXTINF:-1 group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_480_270.png", K+ Cine
-https://longpt.net/vtvcabon/k-plus-1.m3u8
-#EXTINF:-1 group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Life
-https://longpt.net/vtvcabon/k-plus-ns.m3u8
-#EXTINF:-1 group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Kids
-https://longpt.net/vtvcabon/k-plus-kids.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
-
-http://113.164.229.226:7001/stream#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
-https://stream.vov.vn/f32fb2fc0c3cb072d3d0a733ed9c5d541673798983/audio/vovvn1_vov2.stream_aac/playlist.m3u8
+https://stream.vovmedia.vn/vov1/;stream/
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
+http://media.kythuatvov.vn:7003/;stream/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
-https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+http://media.kythuatvov.vn:7005/;stream/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Bắc
-http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
+http://media.kythuatvov.vn:7037/;stream/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Nguyên
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 ĐBSCL
