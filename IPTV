@@ -389,20 +389,20 @@ https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 #-*--Kẹo-*--#
 
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (ClipTV)
-http://vn2.vietanhtv.pw:8081/ksport1/index.m3u8
+https://iplogger.com/2y9T48.m3u8
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (VTVCabOn)
 https://longpt.net/vtvcabon/k-plus-pm.m3u8
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 2 (ClipTV)
-http://vn2.vietanhtv.pw:8081/ksport2/index.m3u8
+https://iplogger.com/2y7T48.m3u8
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 2 (VTVCabOn)
 https://longpt.net/vtvcabon/k-plus-pc.m3u8
 
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_480_270.png", K+ Cine
-https://longpt.net/vtvcabon/k-plus-1.m3u8
+https://iplogger.com/2yMR48.m3u8
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997313743/0e069fa6829d_480_270.png", K+ Life
-https://longpt.net/vtvcabon/k-plus-ns.m3u8
+http://karenshare.leeminho-sport.com:8880/KAREN_SHARE/klife.php?user=admin&pass=tranviet
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K+ Kids
-https://longpt.net/vtvcabon/k-plus-kids.m3u8
+https://iplogger.com/2yXR48.m3u8
 #-*--Thiết yếu-*--#
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -425,6 +425,7 @@ http://103.90.220.236/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="🖥| Khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 - An Viên TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/an-vien-hd/playlist.m3u8
+
 
 
 #-*--Hanoicab-*--#
@@ -758,6 +759,8 @@ https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png", Clubbing TV
+https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8
 
 #EXTINF:-1 tvg-id="afnhd" group-title="🍽| Ẩm thực" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -1146,16 +1149,18 @@ https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" group-title="THAITV" tvg-logo="https://www.amarintv.com/assets/images/logo.png", Amarin TV
 https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
 
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Gốc) 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Gốc)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Đức) 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Rutube) 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-https://salam-2.rutube.ru/dive/river-1-401.rutube.ru/7b839kIyq_tqWefQTT161Q/stream/musang-704.brz.rutube.ru/rC7VnmNeUbiEH_Ivw-ustA/1673939738/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
-
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=ifIAL8D8T53iXAoBl_U1tA&e=1674146972&scheme=https
 
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/I1puHKA.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
