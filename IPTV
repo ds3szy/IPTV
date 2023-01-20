@@ -102,11 +102,11 @@ http://vn2.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K - Server 2
 http://vn3.cvacetv.ga/4K/mpegts
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", BLAST Spring Groups 2023 (TV360)
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://liquipedia.net/commons/images/a/a8/BLAST_Premier_Spring_Groups_lightmode.png", BLAST Spring Groups 2023 (TV360)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", BLAST Spring Groups 2023 (Youtube)
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://liquipedia.net/commons/images/a/a8/BLAST_Premier_Spring_Groups_lightmode.png", BLAST Spring Groups 2023 (Youtube)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674254335/ei/n8PKY8qwAtS-gAe7yZroCQ/ip/92.205.15.128/id/JSUdeZ6nAL8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJE3Jau0ppYfOrr_lD5DZNRcr4u_9cafjxhDxP3R3imMCIBLNXaqeseGeQPstFs8gybzmgKtKaos4RXj2z7yZyreq/file/index.m3u8
 
